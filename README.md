@@ -58,8 +58,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hytalodev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 
-  ![Contributions](https://nirzak-streak-stats.vercel.app/?user=hytalodev&theme=dracula&hide_border=false)
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytalodev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
@@ -72,11 +70,3 @@
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
   <img align="center" alt="illustation" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 </div><br>
-
-## 🏆 GitHub Trofeus
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-![topic github trofis](https://github-profile-trophy.vercel.app/?username=hytalodev&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
